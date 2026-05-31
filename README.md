@@ -149,9 +149,9 @@ const sudhakar = {
 
 | Project | Stack | Highlights |
 |:---|:---|:---|
-| [ðŸ›’ **LuxCart** â€” E-Commerce Website](https://sudhakar-890.github.io/luxCart/) | HTML Â· CSS Â· JavaScript | Fully functional frontend e-commerce app with LocalStorage-based cart persistence; live & deployed |
-| [âœ… **Smart Task Manager Pro**](https://sudhakar-890.github.io/smart-task-manager/) | HTML Â· CSS Â· JavaScript | Feature-rich task management web app with LocalStorage CRUD; clean UX focused on productivity |
-| [ðŸŽ² **Ludo Game** â€” Offline Multiplayer](https://sudhakar-890.github.io/ludo-game/) | HTML Â· CSS Â· JavaScript | Browser-based multiplayer Ludo with full game logic, local play support, and game history via LocalStorage |
+| [ðŸ›’ **LuxCart** â€” E-Commerce Website](https://sudhakar-890.github.io/luxCart/) | HTML / CSS / JavaScript | Fully functional frontend e-commerce app with LocalStorage-based cart persistence; live & deployed |
+| [âœ… **Smart Task Manager Pro**](https://sudhakar-890.github.io/smart-task-manager/) | HTML / CSS / JavaScript | Feature-rich task management web app with LocalStorage CRUD; clean UX focused on productivity |
+| [ðŸŽ² **Ludo Game** â€” Offline Multiplayer](https://sudhakar-890.github.io/ludo-game/) | HTML / CSS / JavaScript | Browser-based multiplayer Ludo with full game logic, local play support, and game history via LocalStorage |
 
 </div>
 
@@ -164,7 +164,7 @@ const sudhakar = {
 | ðŸ† | Achievement | Details |
 |:---:|:---|:---|
 | ðŸŽ“ | **Academic Excellence** | 8.1 CGPA after 3 semesters â€” B.Sc. Computer Science, MAM College |
-| ðŸ« | **Strong Academic Foundation** | HSC: 75.5% Â· SSLC: 81% â€” New Millennium Matric. Hr. Sec. School |
+| ðŸ« | **Strong Academic Foundation** | HSC: 75.5% / SSLC: 81% â€” New Millennium Matric. Hr. Sec. School |
 | ðŸ’¼ | **Employed While Studying** | Working as Digital Services Specialist at S.P Net Center since May 2026 |
 | ðŸŒ | **3 Live Deployed Projects** | All projects publicly accessible via GitHub Pages |
 | ðŸ¤– | **AI Automation Practitioner** | Hands-on experience with make.com & n8n for workflow automation |
