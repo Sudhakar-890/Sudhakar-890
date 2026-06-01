@@ -15,15 +15,15 @@
 
 ---
 
-## ðŸ‘¨â€ðŸ’» About Me
+##  About Me
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif"/>
 
 ```javascript
 const sudhakar = {
   name        : "Sudhakar S",
-  location    : "Siruganur, Trichy, Tamil Nadu ðŸ‡®ðŸ‡³",
-  degree      : "B.Sc. Computer Science @ MAM College (2024â€“2028)",
+  location    : "Siruganur, Trichy, Tamil Nadu ",
+  degree      : "B.Sc. Computer Science @ MAM College (20242028)",
   cgpa        : "8.1 / 10 (till 3rd sem)",
   role        : "Full-Stack Developer & Digital Services Specialist",
 
@@ -39,7 +39,7 @@ const sudhakar = {
   currentlyLearning : ["React Advanced Patterns", "REST API Security",
                        "AI Automation (n8n + make.com)"],
 
-  funFact  : "I built a fully playable browser Ludo game from scratch ðŸŽ²",
+  funFact  : "I built a fully playable browser Ludo game from scratch ",
   motto    : () => "Ship fast. Iterate faster. Never stop learning.",
 };
 ```
@@ -48,7 +48,7 @@ const sudhakar = {
 
 ---
 
-## ðŸ› ï¸ Tech Stack
+##  Tech Stack
 
 **Languages**
 
@@ -85,7 +85,7 @@ const sudhakar = {
 
 ---
 
-## ðŸ“Š GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <a href="https://github.com/sudhakar-890">
@@ -98,7 +98,7 @@ const sudhakar = {
 
 ---
 
-## ðŸ”¥ Streak Stats
+##  Streak Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sudhakar-890&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak" />
@@ -106,7 +106,7 @@ const sudhakar = {
 
 ---
 
-## ðŸ“ˆ Activity Graph
+##  Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudhakar-890&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" />
@@ -114,7 +114,7 @@ const sudhakar = {
 
 ---
 
-## ðŸ† Trophy Wall
+##  Trophy Wall
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sudhakar-890&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies" />
@@ -122,10 +122,10 @@ const sudhakar = {
 
 ---
 
-## ðŸ’¼ Work Experience
+##  Work Experience
 
 <details>
-<summary><b>ðŸ–¥ï¸ S.P Net Center â€” Digital Services Specialist &nbsp;|&nbsp; May 2026 â€“ Present &nbsp;|&nbsp; Samayapuram, Trichy</b></summary>
+<summary><b> S.P Net Center  Digital Services Specialist &nbsp;|&nbsp; May 2026  Present &nbsp;|&nbsp; Samayapuram, Trichy</b></summary>
 
 <br/>
 
@@ -134,86 +134,86 @@ const sudhakar = {
 > ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 > ![Graphic Design](https://img.shields.io/badge/Graphic--Design-FF6B6B?style=flat-square&logo=adobephotoshop&logoColor=white)
 
-- ðŸ›ï¸ Expert in navigating **government portals** for certificate applications, identity updates, and official documentation workflows
-- ðŸ“Š Managed **data entry and record management** using MySQL and MongoDB, ensuring accuracy across all digital transactions
-- ðŸŽ¨ Handled **graphic design** for personal and event needs â€” banners, flyers, and digital assets
-- ðŸ’¬ Delivered **exceptional customer service** and technical troubleshooting, ensuring smooth day-to-day operations at a busy net/browsing center
+-  Expert in navigating **government portals** for certificate applications, identity updates, and official documentation workflows
+-  Managed **data entry and record management** using MySQL and MongoDB, ensuring accuracy across all digital transactions
+-  Handled **graphic design** for personal and event needs  banners, flyers, and digital assets
+-  Delivered **exceptional customer service** and technical troubleshooting, ensuring smooth day-to-day operations at a busy net/browsing center
 
 </details>
 
 ---
 
-## ðŸš€ Featured Projects
+##  Featured Projects
 
 <div align="center">
 
 | Project | Stack | Highlights |
 |:---|:---|:---|
-| [ðŸ›’ **LuxCart** â€” E-Commerce Website](https://sudhakar-890.github.io/luxCart/) | HTML / CSS / JavaScript | Fully functional frontend e-commerce app with LocalStorage-based cart persistence; live & deployed |
-| [âœ… **Smart Task Manager Pro**](https://sudhakar-890.github.io/smart-task-manager/) | HTML / CSS / JavaScript | Feature-rich task management web app with LocalStorage CRUD; clean UX focused on productivity |
-| [ðŸŽ² **Ludo Game** â€” Offline Multiplayer](https://sudhakar-890.github.io/ludo-game/) | HTML / CSS / JavaScript | Browser-based multiplayer Ludo with full game logic, local play support, and game history via LocalStorage |
+| [ **LuxCart**  E-Commerce Website](https://sudhakar-890.github.io/luxCart/) | HTML / CSS / JavaScript | Fully functional frontend e-commerce app with LocalStorage-based cart persistence; live & deployed |
+| [ **Smart Task Manager Pro**](https://sudhakar-890.github.io/smart-task-manager/) | HTML / CSS / JavaScript | Feature-rich task management web app with LocalStorage CRUD; clean UX focused on productivity |
+| [ **Ludo Game**  Offline Multiplayer](https://sudhakar-890.github.io/ludo-game/) | HTML / CSS / JavaScript | Browser-based multiplayer Ludo with full game logic, local play support, and game history via LocalStorage |
 
 </div>
 
 ---
 
-## ðŸ… Achievements
+##  Achievements
 
 <div align="center">
 
-| ðŸ† | Achievement | Details |
+|  | Achievement | Details |
 |:---:|:---|:---|
-| ðŸŽ“ | **Academic Excellence** | 8.1 CGPA after 3 semesters â€” B.Sc. Computer Science, MAM College |
-| ðŸ« | **Strong Academic Foundation** | HSC: 75.5% / SSLC: 81% â€” New Millennium Matric. Hr. Sec. School |
-| ðŸ’¼ | **Employed While Studying** | Working as Digital Services Specialist at S.P Net Center since May 2026 |
-| ðŸŒ | **3 Live Deployed Projects** | All projects publicly accessible via GitHub Pages |
-| ðŸ¤– | **AI Automation Practitioner** | Hands-on experience with make.com & n8n for workflow automation |
+|  | **Academic Excellence** | 8.1 CGPA after 3 semesters  B.Sc. Computer Science, MAM College |
+|  | **Strong Academic Foundation** | HSC: 75.5% / SSLC: 81%  New Millennium Matric. Hr. Sec. School |
+|  | **Employed While Studying** | Working as Digital Services Specialist at S.P Net Center since May 2026 |
+|  | **3 Live Deployed Projects** | All projects publicly accessible via GitHub Pages |
+|  | **AI Automation Practitioner** | Hands-on experience with make.com & n8n for workflow automation |
 
 </div>
 
 ---
 
-## ðŸŽ“ Education
+##  Education
 
 <div align="center">
 
 | Degree / Level | Institution | Year | Score |
 |:---|:---|:---:|:---:|
-| ðŸŽ“ B.Sc. Computer Science | M.A.M College of Engineering & Technology | 2024 â€“ 2028 | 8.1 CGPA |
-| ðŸ“˜ HSC (Class XII) | New Millennium Matric. Hr. Sec. School | 2021 â€“ 2024 | 75.5% |
-| ðŸ“— SSLC (Class X) | New Millennium Matric. Hr. Sec. School | 2021 | 81% |
+|  B.Sc. Computer Science | M.A.M College of Engineering & Technology | 2024  2028 | 8.1 CGPA |
+|  HSC (Class XII) | New Millennium Matric. Hr. Sec. School | 2021  2024 | 75.5% |
+|  SSLC (Class X) | New Millennium Matric. Hr. Sec. School | 2021 | 81% |
 
 </div>
 
 ---
 
-## ðŸ“š Currently Learning
+##  Currently Learning
 
 ```
-ðŸ§± Full-Stack Depth
-   â”œâ”€â”€ React â†’ Advanced Hooks, Context API, React Query
-   â”œâ”€â”€ Node.js â†’ JWT Auth, OAuth 2.0, RESTful API Security
-   â””â”€â”€ Django â†’ DRF (Django REST Framework), Deployment
+ Full-Stack Depth
+    React  Advanced Hooks, Context API, React Query
+    Node.js  JWT Auth, OAuth 2.0, RESTful API Security
+    Django  DRF (Django REST Framework), Deployment
 
-âš¡ AI & Automation
-   â”œâ”€â”€ n8n â†’ Complex workflow automation pipelines
-   â”œâ”€â”€ make.com â†’ SaaS integrations & triggers
-   â””â”€â”€ Prompt Engineering â†’ AI-powered web app backends
+ AI & Automation
+    n8n  Complex workflow automation pipelines
+    make.com  SaaS integrations & triggers
+    Prompt Engineering  AI-powered web app backends
 
-ðŸ—„ï¸ Database Mastery
-   â”œâ”€â”€ MySQL â†’ Query optimization, indexing, joins
-   â””â”€â”€ MongoDB â†’ Aggregation pipelines, Atlas Search
+ Database Mastery
+    MySQL  Query optimization, indexing, joins
+    MongoDB  Aggregation pipelines, Atlas Search
 
-ðŸŽ¨ UI/UX Design
-   â”œâ”€â”€ Figma â†’ Wireframes & prototypes
-   â””â”€â”€ Design Systems â†’ Component libraries, accessibility
+ UI/UX Design
+    Figma  Wireframes & prototypes
+    Design Systems  Component libraries, accessibility
 ```
 
 ---
 
 <p align="center">
-  <i>"Code is poetry â€” write it beautifully."</i><br/>
-  <b>â€” Sudhakar S</b>
+  <i>"Code is poetry  write it beautifully."</i><br/>
+  <b> Sudhakar S</b>
 </p>
 
 <p align="center">
